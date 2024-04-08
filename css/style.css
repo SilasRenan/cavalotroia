@@ -1,0 +1,30 @@
+*
+	{margin:;
+	padding:;}
+	
+body
+	{background-color: #000000;
+	font-family: calibri, sans-serif;
+	text-transform: uppercase;}
+	
+.center_text
+	{text-align: center;}
+	
+.bolder_title
+	{color: #FF4500;
+	font-weight: 600;}
+	
+.books_div
+	{width: 1100px;
+	height: 100%;
+	position: relative;
+	left: 50%;
+	transform: translateX(-50%);}
+	
+.capes
+	{margin-left: 50px;}
+	
+.capes:hover
+	{height: 310px;
+	width: 206px;
+	border: solid 5px #FF1493;}
